@@ -4,11 +4,11 @@
   <a href="https://github.com/rasvetovvv/Discord-CustomRP/releases"><img alt="All GitHub Releases" src="https://img.shields.io/github/downloads/rasvetovvv/Discord-CustomRP/total?color=19e2e2&label=total%20downloads&logo=github"></a>
   <br>
   <a href="https://boosty.to/rasvetovvv"><img alt="Support on Boosty" src="https://img.shields.io/badge/support%20on-boosty-19e2e2"></a>
-  <a href="https://www.customrp.xyz/discordserver"><img alt="Discord Server" src="https://img.shields.io/discord/928333025652121630?color=19e2e2&label=server&logo=discord&logoColor=white"></a>
+  <a href=""><img alt="Discord Server" src="https://img.shields.io/discord/928333025652121630?color=19e2e2&label=server&logo=discord&logoColor=white"></a>
 </p>
 
-# <img src=https://www.customrp.xyz/assets/logo.png style="height:1em;"/> Custom Discord Rich Presence Manager
-![App Screenshot](https://www.customrp.xyz/assets/screenshot.png)
+# <img src=https:// style="height:1em;"/> Custom Discord Rich Presence Manager
+![App Screenshot](https://)
 
 Custom Discord Rich Presence Manager for Windows 7+. Some of its features are run on startup and tray minimization. Uses [Lachee's DiscordRPC for C#](https://github.com/Lachee/discord-rpc-csharp).
 
