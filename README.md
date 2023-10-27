@@ -31,11 +31,10 @@ If you have any problems with the app, please check out the [FAQ](http://customr
 
 ## Translations
 
-<a href="https://poeditor.com/join/project?hash=2jq0i7ANr1"><img alt="POEditor Translation Progress" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fwww.customrp.xyz%2Fpoeditor%2Fall.json"></a>
 
 So far, the app supports these languages:
 
-![Language progress hystogram](https://www.customrp.xyz/poeditor/progress.php)
+!
 
 (New languages with less than 90% completion will not be added until they hit that mark.)
 
